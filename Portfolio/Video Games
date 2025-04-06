@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Video Games</title>
+<link rel="stylesheet" href="style.css">
+<style>
+
+div{opacity: 0;}
+
+p {text-align: center;}
+</style>
+</head>
+
+<body style="background-color:#222222">
+
+<p class="center0" Style="font-size: 50px; color:white;"> Photoshop Works</p>
+
+
+<p class="center0"><a href="Portfoliov5.html"><img src="Images - all/Sv1.png";>
+</a></p>
+
+<div><p style="font-size:100px; color:#222222;"> 1 </p></div>
+<div><p style="font-size:100px; color:#222222;"> 2 </p></div>
+
+<p class="center0"><img src="Images - all/Shockwaves.png" width="1000" height="600";></p>
+         
+<div><p style="font-size:50px; color:#222222;"> 2 </p></div>
+
+<p Style="font-size: 30px; color:white;">   This assinment was to show us how to cut figures out 
+of an image and apply them with other figures as a test. I went over board by appying more than is 
+required for the assinment. 
+</p>
+
+<div><p style="font-size:100px; color:#222222;"> 2 </p></div>
+
+<p class="center0"><img src="Images - all/Transformer.png" width="1000" height="600";></p>
+
+<div><p style="font-size:50px; color:#222222;"> 2 </p></div>
+
+<p Style="font-size: 30px; color:white;">   This assinment was to show us how to cut figures out 
+of an image and apply them with other figures as a test. I went over board by appying more than is 
+required for the assinment. 
+</p>
+
+<div><p style="font-size:100px; color:#222222;"> 2 </p></div>
+
+<p class="center0"><img src="Images - all/Warriorv1.png" width="1000" height="600";></p>
+
+<div><p style="font-size:50px; color:#222222;"> 2 </p></div>
+
+<p Style="font-size: 30px; color:white;">   This assinment was to show us how to cut figures out 
+of an image and apply them with other figures as a test. I went over board by appying more than is 
+required for the assinment. 
+</p>
+
+<div><p style="font-size:100px; color:#222222;"> 2 </p></div>
+
+<p class="center0"><img src="Images - all/Warriorv2.png" width="1000" height="600";></p>
+
+<div><p style="font-size:50px; color:#222222;"> 2 </p></div>
+
+<p Style="font-size: 30px; color:white;">   This assinment was to show us how to cut figures out 
+of an image and apply them with other figures as a test. I went over board by appying more than is 
+required for the assinment. 
+</p>
+
+<div><p style="font-size:100px; color:#222222;"> 2 </p></div>
+
+<p class="center0"><img src="Images - all/Warriorv3.png" width="1000" height="600";></p>
+
+<div><p style="font-size:50px; color:#222222;"> 2 </p></div>
+
+<p Style="font-size: 30px; color:white;">   This assinment was to show us how to cut figures out 
+of an image and apply them with other figures as a test. I went over board by appying more than is 
+required for the assinment. 
+</p>
+
+<div><p style="font-size:50px; color:#222222;"> 2 </p></div>
+   
+
+
+
+</body>
+</html>
